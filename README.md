@@ -15,3 +15,12 @@ If you find this paper helpful, please cite it as follows:
      booktitle={AAAI},
      year={2019}
 }
+
+
+@inproceedings{du2015hierarchical,
+  title={Hierarchical recurrent neural network for skeleton based action recognition},
+  author={Du, Yong and Wang, Wei and Wang, Liang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1110--1118},
+  year={2015}
+}
